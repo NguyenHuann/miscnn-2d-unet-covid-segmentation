@@ -1,0 +1,16 @@
+# ===== Core & ML =====
+numpy==1.19.2
+pandas==1.1.5
+tensorflow==2.7.0
+
+# ===== Image processing (2D) =====
+scikit-image==0.18.2
+matplotlib==3.3.1
+Pillow==8.3.2
+tqdm==4.51.0
+
+# ===== Segmentation framework =====
+miscnn==1.4.0
+
+# ===== TensorFlow compatibility =====
+protobuf==3.20.3
